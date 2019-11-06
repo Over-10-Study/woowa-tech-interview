@@ -53,7 +53,7 @@ LSP는 S가 T의 sub type 일 경우 (더 구체적인 값), T가 사용된 곳�
 ## DIP (Dependency Inversion Principle)
 결국 사용하는 애든, 사용당하는 애든, 추상화(interface)를 의존하고 있어야 한다. (사진보면 이해가 그나마 쉽다.)
 
-<wiki 그림>
+![Dependency_inversion_principle_Wikipedia](./../../images/Dependency_inversion_principle_Wikipedia.png)
 
 > 'Nevertheless, the "inversion" concept does not mean that lower-level layers depend on higher-level layers. Both layers should depend on abstractions that draw the behavior needed by higher-level layers.'
 
